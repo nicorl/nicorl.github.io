@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Nicolás Rodríguez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Industrial Engineer. Focused on Computer Vision, Internet of Everything and Cloud solutions"
+  location         : "Cordoba, Spain"
+  employer         : "Efficold"
   pubmed           :
   googlescholar    : "https://scholar.google.es/citations?user=Qwnf6LkAAAAJ&hl=es&authuser=1"
   email            : "nrl00002@red.ujaen.es"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : https://stackoverflow.com/users/5433390/nicol%c3%a1s-rodr%c3%adguez
-  steam            : 
+  steam            :
   tumblr           :
   twitter          : "nicorl"
   vine             :
