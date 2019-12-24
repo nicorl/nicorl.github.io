@@ -13,3 +13,4 @@ So, for now, I would be satisfied if I kept this website active. The goal might 
 
 A new paper, a new track mark, enhance german learning ... That's my new-not-easy-but-affordables goals.
 What I should propose to myself?
+---
