@@ -54,3 +54,10 @@ check_price()
 ProCase Funda 10,5” iPad Pro 2017/iPad Air 2019, Estuche Inteligente Ultra Delgada Ligera con Soporte Reverso Translúcido Esmerilado para iPad Air 3.ª Generación/iPad Pro 10.5 Pulgadas -Azul Marino
 13,99 €
 ```
+
+## Details
+
+To know what is the id you are looking for, you shoud go to the website, open the inspector and query about the tag.
+
+![price block](priceBlock2.png)
+![product title](productTitle2.png)
