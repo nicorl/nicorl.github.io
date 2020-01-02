@@ -22,6 +22,8 @@ Then, install bs4 and html5lib:
 
 Second step: google "my user agent" and add the line in the header asignation below.
 
+![My user agent](my-user-agent.png)
+
 Third, add this in an empty python file and save as `price_tracker.py`
 
 ```python
@@ -47,3 +49,8 @@ check_price()
 ```
 
 > python price_tracker.py
+
+```terminal
+ProCase Funda 10,5” iPad Pro 2017/iPad Air 2019, Estuche Inteligente Ultra Delgada Ligera con Soporte Reverso Translúcido Esmerilado para iPad Air 3.ª Generación/iPad Pro 10.5 Pulgadas -Azul Marino
+13,99 €
+```
