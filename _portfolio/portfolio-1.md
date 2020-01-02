@@ -4,10 +4,17 @@ excerpt: "Python code for price tracking at amazon"
 collection: portfolio
 ---
 
+A small python code can allow us to track any single tag in a web. It's usefull for amazon, also for others kind of shops that haven't a tracker yet.
+
+# Instructions for using
 
 First, type on the terminal:
 
 > chcp 65001
+
+That's for character encoding. [More info here](https://stackoverflow.com/questions/57131654/using-utf-8-encoding-chcp-65001-in-command-prompt-windows-powershell-window)
+
+Then, install bs4 and html5lib:
 
 > conda install bs4
 
@@ -15,7 +22,7 @@ First, type on the terminal:
 
 Second step: google "my user agent" and add the line in the header asignation below.
 
-Third, add this in an empty python file and save as price_tracker.py
+Third, add this in an empty python file and save as `price_tracker.py`
 
 ```python
 import requests
