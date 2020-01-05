@@ -22,7 +22,7 @@ Then, install bs4 and html5lib:
 
 Second step: google "my user agent" and add the line in the header asignation below.
 
-<img src='/images/my-user-agent.png'>
+<img src='/images/my-user-agent.PNG'>
 
 Third, add this in an empty python file and save as `price_tracker.py`
 
