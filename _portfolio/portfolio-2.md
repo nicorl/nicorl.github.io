@@ -6,7 +6,7 @@ collection: portfolio
 
 This game have been developed thanks to this [tutorial](https://www.udemy.com/course/code-your-first-game/)
 
-Play it [here](<a href='/files/snakegame.html'>here</a>)
+Play it <a href='/files/snakegame.html'>here</a>
 
 ```Javascript
 <canvas id="gc" width="400" height="400"></canvas>
