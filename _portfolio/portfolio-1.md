@@ -22,7 +22,7 @@ Then, install bs4 and html5lib:
 
 Second step: google "my user agent" and add the line in the header asignation below.
 
-![My user agent](/images/my-user-agent.png)
+<img src='/images/my-user-agent.png'>
 
 Third, add this in an empty python file and save as `price_tracker.py`
 
@@ -59,5 +59,5 @@ ProCase Funda 10,5” iPad Pro 2017/iPad Air 2019, Estuche Inteligente Ultra Del
 
 To know what is the id you are looking for, you shoud go to the website, open the inspector and query about the tag.
 
-![price block](./images/priceBlock2.png)
-![product title](./images/productTitle2.png)
+<img src='/images/priceBlock2.png'>
+<img src='/images/productTitle2.png'>
