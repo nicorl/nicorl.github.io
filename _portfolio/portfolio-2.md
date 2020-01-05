@@ -8,7 +8,7 @@ This game have been developed thanks to this [tutorial](https://www.udemy.com/co
 
 Play it <a href='/files/snakegame.html'>here</a>
 
-```Javascript
+```javascript
 <canvas id="gc" width="400" height="400"></canvas>
 <script>
 window.onload=function() {
