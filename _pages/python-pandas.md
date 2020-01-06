@@ -8,8 +8,6 @@ redirect_from:
   - /python-pandas.html
 ---
 
-# Pandas snippets
-
 ## Loading CSV file with unknowns sepparators:
 
 ```python
