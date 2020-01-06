@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Pandas Snippets"
+excerpt: "Snippets for pandas"
+author_profile: true
+redirect_from:
+  - /python-pandas/
+  - /python-pandas.html
+---
+
 # Pandas snippets
 
 ## Loading CSV file with unknowns sepparators:
