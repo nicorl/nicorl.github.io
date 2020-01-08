@@ -1,5 +1,5 @@
 ---
-title: "Snake game "
+title: "Snake game"
 excerpt: "Javascript code for classic snake game"
 collection: portfolio
 ---
