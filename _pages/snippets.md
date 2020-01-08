@@ -16,7 +16,7 @@ redirect_from:
     <td>[Pandas](./python-pandas.md) </td>
   </tr>
   <tr>
-    <td>[OpenCV-HSV](./python-pandas.md)</td>
+    <td>[OpenCV-HSV](./python-opencv-hsv.md)</td>
   </tr>
 </table>
 
