@@ -13,10 +13,10 @@ redirect_from:
     <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" style="width:50px;height:50px;"></th>
   </tr>
   <tr>
-    <td>[Pandas](./python-pandas.md) </td>
+    <td> <a href="python-pandas.html">Pandas </td>
   </tr>
   <tr>
-    <td>[OpenCV-HSV](./python-opencv-hsv.md)</td>
+    <td> <a href="python-opencv-hsv.html">OpenCV - HSV </td>
   </tr>
 </table>
 
