@@ -34,5 +34,10 @@ print(new_list)
 $ python lookingwordinlist.py
 > ["i'm going this friday", 'i plan to go saturday']
 
+If you think you can use this for other uses, let me know!
 
 [Download snippet here](http://nicorl.github.io/files/lookingwordinlist.py)
+
+### Next steps
+
+By using numpy.unique we can reduce the list if one of the sentences is repeated.
