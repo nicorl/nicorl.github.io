@@ -20,7 +20,7 @@ Work experience
 * 2012 - 2016: Intermediate control
   * Packaging manufacturer
 
-* 2017 - current: Technical Developer
+* 2017 - current: Innovation engineer
   * Cabinets manufacturer
 
 Skills
