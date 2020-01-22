@@ -22,6 +22,10 @@ redirect_from:
     <td> <a href="python-matching-string-arrays.html">Matching string arrays</a></td>
     <td></td>
   </tr>
+  <tr>
+  <td><a href="python-dates.html">Dates</a></td>
+  <td></td>
+  </tr>
 </table>
 
  <br>
