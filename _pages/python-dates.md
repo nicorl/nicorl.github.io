@@ -56,3 +56,5 @@ The importance of the operator `/` and `//`:
 ## Usage
 The usage is through and argument
 > python number_of_days_to_date.py -d 1200
+
+[Download snippet here](http://nicorl.github.io/files/number_of_days_to_date.py)
