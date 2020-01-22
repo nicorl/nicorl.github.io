@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Python code Snippet"
+title: "Duolingo Date Snippet"
 excerpt: "Snippets for calculate dates"
 author_profile: true
 redirect_from:
